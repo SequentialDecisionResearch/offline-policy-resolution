@@ -1,1 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated research paper."
+title: "Offline Policy Resolution"
+type: software
+authors:
+  - family-names: "Li"
+    given-names: "Shenggang"
+    orcid: "https://orcid.org/0009-0005-7411-4638"
 
+repository-code: "https://github.com/SequentialDecisionResearch/offline-policy-resolution"
+url: "https://github.com/SequentialDecisionResearch/offline-policy-resolution"
+
+version: "1.0.0"
+date-released: 2026-09-04
+
+license: MIT
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Li"
+      given-names: "Shenggang"
+      orcid: "https://orcid.org/0009-0005-7411-4638"
+  title: "Historical Evidence for Off-Policy Evaluation of ETF Allocation Policies: When Better Value Estimates Do Not Resolve Policy Choice"
+  year: 2026
